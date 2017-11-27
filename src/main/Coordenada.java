@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author higo.lago
+ * @author Higo Soares e Walner Pessoa
  */
 public class Coordenada implements Serializable {
     private int x;
