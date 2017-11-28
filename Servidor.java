@@ -3,12 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package main;
 
 import java.net.*;
 import java.io.*;
 import java.util.Random;
-
 /**
  *
  * @author Higo Soares e Walner Pessoa
