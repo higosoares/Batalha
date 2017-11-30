@@ -10,7 +10,7 @@ Jogo de batalha naval em JAVA desenvolvido no UniCEUB por Higo Soares e Walner P
 - Nome : Path
 - Valor : Caminho do jdk com a pasta bin. Ex: C:\Program Files\Java\jdk1.8.0_151\bin
 
-Para compilação e execução deve-se entrar na pasta onde foi extraído os arquivos e em seguida digitar em cada prompt os seguintes comandos :
+Para compilação e execução deve-se entrar na pasta onde foi extraído os arquivos e em seguida digitar em cada prompt os seguintes comandos : 
 No primeiro prompt :
 - javac -encoding UTF8 Servidor.java
 - java Servidor
